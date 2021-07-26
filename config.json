@@ -2,13 +2,13 @@
   "input": "./gallery",
   "output": "./build_output",
   "title": "VW Käferclub Lengenfeld",
-  "sort-albums-by": "title",
+  "sort-albums-by": "start-date",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "",
+  "footer": "Alle Bilder dieser Webseite unterliegen dem Copyright von VW Käferclub Lengenfeld.",
   "usage-stats": false
 }
 
