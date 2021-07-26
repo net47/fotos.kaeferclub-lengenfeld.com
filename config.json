@@ -1,14 +1,14 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "VW Käferclub Lengenfeld",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "Copyright VW Käferclub Lengenfeld",
+  "footer": "",
   "usage-stats": false
 }
 
