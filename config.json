@@ -8,6 +8,7 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Copyright VW Käferclub Lengenfeld",
   "usage-stats": false
 }
+
