@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "flow",
+  "theme": "cards",
   "theme-style": "./custom.css",
   "footer": "Alle Bilder dieser Webseite unterliegen dem Copyright von VW Käferclub Lengenfeld.",
   "usage-stats": false
